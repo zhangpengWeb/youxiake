@@ -2,7 +2,7 @@
 
 >  项目地址：https://m.youxiake.com/#/
 
->  视频教程：https://www.3mooc.com/front/couinfo/207
+>  视频教程：https://www.3mooc.com/front/couinfo/212
 
 
 ## 项目运行（nodejs 6.0+）
@@ -17,7 +17,7 @@ cd youxiake
 npm install
 
 # 开启本地服务器
-npm run dev
+npm run serve
 
 # 发布环境
 npm run build
